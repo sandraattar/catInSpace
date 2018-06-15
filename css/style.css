@@ -1,0 +1,14 @@
+
+#kitten{
+  height:100px;
+  width:85px;
+  position:absolute;
+}
+#container{
+  background-image: url(https://www.jpl.nasa.gov/spaceimages/images/wallpaper/PIA17563-1920x1200.jpg);
+  height:100vh;
+  /* vh stands for viewport height */
+  width:100vw;
+  background-size: cover;
+
+}
